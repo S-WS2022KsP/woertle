@@ -1,0 +1,51 @@
+Kodierrichtlinien
+
+Format: Textdatei
+
+
+1. Regel:	Pythenprogramm endet immer mit .py
+
+2. Regel:	Skript muss immer Shebank-Zeile enthalten
+
+3. Regel:	Leerzeichen immer vor und hinter Operatoren
+
+4. Regel:	Pro Zeile immer nur eine Anweisung
+
+5. Regel:	Längenbegrenzung pro Zeile: max. 80 Zeichen
+
+6. Regel:	Wenn Zeilenlänge Erreicht wird, kann mithilfe von \ der befehl auf der nächsten zeile weitergeschrieben werden
+			-> innerhalb von klammern wird \ nicht benötigt
+			-> innerhalb eines Strings darf nur über eine Zeile gehen - keine \
+				-> 3x " oder 3x ' leitet mehrzeiligen String ein
+
+7. Regel:	Einrücken nicht mit Tabulator!  -->  Einrücken mit 4 Leerzeichen.
+
+8. Regel:	Welche Sprache? -> Deutsch
+
+9. Regel:	Keine Umlaute (Variablenname ohne Umlaute, Kommentare mit Umlaute)
+
+10. Regel:	Variablenname:
+			-> camelcase mit gesenktem Kopf (alles Kleingeschrieben, erstes Zeichen von Folgewort großgeschrieben)
+			-> kein Unterstrich als erstes Zeichen
+
+11. Regel:	Großzügiger Umgang mit klammern.
+			-> z.B. 1+(2*(3**4))+5
+
+12. Regel:	Kommentare als DocString für Besonderheiten
+
+13. Regel:	Standartkopfzeile am Anfang vom Skript
+			-> Informationen als Variable aufnehmen.
+			-> Folgende Informationen müssen enthalten sein:
+				-> License
+				-> ScriptName
+				-> ScriptVersion
+				-> ScriptDate
+				-> Author
+				-> ScriptID
+				-> usage
+				-> copyright
+
+14. Regel:	Am Ende einer Funktion steht immer ein Return.
+		Falls keine Rückgabe erwünscht -> return none
+
+15. Regel:	Tupel immer in runde Klammern schreiben.
