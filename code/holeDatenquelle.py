@@ -25,7 +25,14 @@ Nach der Eingabe der Anzahl Buchstaben als Filterkriterium gibt {skriptName}
 entweder eine Erfolgsmeldung inkl. Anzahl der Wörter oder eine Fehlermeldung
 aus.
 
-Beispielhafter Aufruf:   {skriptName}
+Beispiele für den Aufruf
+Interaktiver Aufruf:   {skriptName}
+Durch den Aufruf des Skripts ohne Parameter wird eine Interaktion durch den
+Benutzer erwartet.
+
+Aufruf mit Übergabe:   {skriptName} 5
+Durch die Übergabe einer Ganzzahl an das Skript wird die Ausgabe automatisch
+auf Wörter mit der angeben Anzahl an Buchstaben gefiltert.
 
 Es gibt keine Optionen für den Aufruf""" # aufrufLang
 
@@ -50,6 +57,7 @@ def druckeAufrufLang():
 druckeSkriptId()
 # druckeAufrufKurz()
 # druckeAufrufLang()
+import sys
 import os
 import glob
 import requests
@@ -57,9 +65,14 @@ import pyunpack
 import csv
 import shutil
 
+# Prüfen ob die Wortlänge übergeben wurde
+if len(sys.argv) == 2:
+    wortLaenge = int(sys.argv[1])
+else:
+    # falls nicht wird sie zu 0 und der Benutzer wird nach Vorgabe gefragt
+    wortLaenge = 0
 
-# Wortlänge, falls 0 wird der Benutzer nach Vorgabe gefragt
-wortLaenge = 0
+
 #debug = False
 debug = True
 
@@ -80,7 +93,7 @@ if not istVorhanden:
     if response.status_code == 200:
         if debug:
             print("Herunterladen erfolgreich")
-            printt(f"HTTP Status Code: {response.status_code}")
+            print(f"HTTP Status Code: {response.status_code}")
         with open(downloadPfad, 'wb') as out:
             out.write(response.content)
     else:
@@ -109,7 +122,7 @@ with open(woerterbuchPfad, 'r') as fd:
 if debug:
     print(f"Wörterbuch: {woerterbuchPfad}")
     
-datei = open(ausgabeDatei, 'w')
+datei = open(ausgabeDatei, 'w', encoding = 'utf-8')
 for word in woerter:
     datei.write(word)
 datei.close()
