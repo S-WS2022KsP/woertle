@@ -51,12 +51,13 @@ def druckeAufrufLang():
     print(copyright)
     print()
     print(aufrufLang)
-    return None
+    exit()
 ###############################################################################
 
 druckeSkriptId()
 # druckeAufrufKurz()
 # druckeAufrufLang()
+
 import sys
 import os
 import glob
@@ -68,6 +69,10 @@ import shutil
 # Prüfen ob die Wortlänge übergeben wurde
 if len(sys.argv) == 2:
     wortLaenge = int(sys.argv[1])
+elif len(sys.argv) > 2:
+    print("Fehler: Skript mit mehr als einem Parameter aufgerufen")
+    print("")
+    print(aufrufLang)
 else:
     # falls nicht wird sie zu 0 und der Benutzer wird nach Vorgabe gefragt
     wortLaenge = 0
