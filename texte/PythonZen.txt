@@ -1,0 +1,21 @@
+Das Zen des Pythons, von Tim Peters
+
+Schön ist besser als hässlich.
+Explizit ist besser als implizit.
+Einfach ist besser als komplex.
+Komplex ist besser als kompliziert.
+Flach ist besser als verschachtelt.
+Spärlich ist besser als dicht.
+Lesbarkeit zählt.
+Spezialfälle sind nie speziell genug, um die Regeln zu brechen.
+Dennoch geht Praktikabilität vor Regeltreue.
+Fehlermeldungen sollten niemals stillschweigend übergangen werden.
+Außer sie werden ausdrücklich ausgeblendet.
+Im Falle von Uneindeutigkeit widerstehe der Versuchung zu raten.
+Es sollte einen -- und wirklich NUR einen -- offensichtlichen Weg es zu tun.
+Obwohl diese zunächst nicht offensichtlich ist, es sei denn Du bist Niederländer.
+Jetzt ist besser als nie.
+Obwohl es nie besser ist, als genau jetzt.
+Wenn die Implementierung schwer zu erklären ist, ist es eine schlechte Idee.
+Wenn die Implementierung einfach zu erklären ist, könnte es eine gute Idee sein.
+Namensräume sind eine tolle Idee -- machen wir mehr davon!
