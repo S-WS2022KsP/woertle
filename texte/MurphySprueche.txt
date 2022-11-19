@@ -1,0 +1,124 @@
+Diese Datei enthält Übungsdaten
+
+Es sind Sprüche aus dem Buch
+
+	Bloch, Arthur:  Gesammelte Gründe, warum alles schiefgeht,
+			nehegfeihcs kann! Murphy's gesetze in einem Band.
+			Goldmann Verlag, 1987
+			ISB N 3-442-10046-1
+
+
+Murphy's Gesetz:
+
+Der Grundsatz, dass alles was nur möglich ist, schiefgeht.
+(Ursprung unbekannt.)
+
+
+Folgerungen:
+
+1. Nichts ist so leicht, wie es aussieht.
+2. Alles dauert länger, als man glaubt.
+3. Wenn es eine Möglichkeit gibt, dass Dinge schiefgehen, so wird das
+   geschehen, das den grössten Schaden anrichtet.
+4. Wenn man feststellt, dass es vier Möglichkeiten gibt, die einen Vorgang
+   schiefgehen lassen können und man diese ausschaltet, wird sich bestimmt
+   noch eine fünfte finden lassen.
+5. Dinge sich selbst zu überlassen, führt vom Regen in die Traufe.
+6. Immer, wenn man etwas ernsthaft machen möchte, kommt etwas anderes
+   dazwischen.
+7. Jede Lösung bringt neue Probleme.
+8. Es ist unmöglich, etwas ganz sicher zu machen, denn Dummköpfe sind zu
+   erfinderisch.
+9. Die Natur ergreift immer die Partei des versteckten Fehlers.
+
+
+Zymurgy's siebenter Einwand zu Murphy's Gesetz:
+Ein Unglück kommt selten allein.
+
+
+Bolings's Forderung:
+Wenn es dir gut geht, mach dir keine Sorgen. Es wird vorbeigehen.
+
+
+Finagle's erstes Gesetz:
+Wenn ein Experiment funktioniert, ist vorher etwas schiefgegangen.
+
+
+Finagle's drittes Gesetz:
+In jeder Datensammlung ist die Rechnung, die offensichtlich richtig ist, trotz
+aller Kontrollen falsch.
+Folgerungen:
+1. Derjenige, den man um Hilfe bittet, wird den Fehler nicht finden.
+2. Derjenige, der mit unerbetenen Ratschlägen dazukommt, wird ihn sofort entdecken.
+
+
+Sodd's zweites Gesetz:
+Früher oder später wird sich das Schlimmste ereignen.
+
+
+Simon's Gesetz:
+Alles, was zusammengesetzt wurde, fällt früher oder später auseinander.
+
+
+Pudder's Gesetz:
+Alles, was gut geht, endet schlecht.
+Alles, was schlecht beginnt, endet furchtbar.
+
+
+Stockmayer's Theorie:
+Wenn es einfach aussieht, ist es schwierig.
+Wenn es schwierig aussieht, ist es fast unmöglich.
+
+
+O'Tooles Kommentar:
+Murphy war Optimist.
+
+
+Goldberg's Kommentar:
+O'Toole war Optimist.
+
+
+Nagler's Hinweis auf den Ursprung von Murphy's Gesetz:
+Murphy's Gesetz wurde nicht von Murphy selbst formuliert, sondern von einem
+Mann gleichen Namens.
+
+
+Murphy's Gesetz für Behörden:
+Wenn etwas schiefgehen kann, dann geht es in dreifacher Ausführung schief.
+
+
+Maah's Gesetz:
+Die Dinge funktionieren nur deshalb, damit sie auch schiefgehen können.
+
+
+Gualtieri's Trägheitsgesetz:
+Wo ein Wille ist, gibt's auch ein "geht nicht".
+
+
+Perrussel's Gesetz:
+Nichts ist so einfach, dass man's nicht falsch machen könnte.
+
+
+Allen's Gesetz:
+Bei fast allen Dingen kommt man leicht rein, und nur schwer wieder raus.
+
+
+Gattuso's Ausweitung von Murphy's Gesetz:
+Nichts ist so schlecht, dass es nicht noch schlechter werden kann.
+
+
+Evan's und Björn's Gesetz:
+Egal was schiefgeht, immer ist da jemand, der das schon im voraus wusste.
+
+
+Grossmann's falsches Zitieren von H.L.Mencken:
+Komplexe Probleme haben einfache, leichtverständliche, aber falsche Lösungen.
+
+
+Boob's Gesetz:
+Das, was du suchst, findest du immer an dem Platz, an dem du zuletzt nachschaust.
+
+
+
+Und als IT-Fazit:
+Wer in die IT einsteigt, steckt drin!

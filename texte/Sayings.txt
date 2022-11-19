@@ -1,0 +1,1647 @@
+Celestial navigation is based on the premise that the Earth is the
+center of the universe.  The premise is wrong, but the navigation
+works.  An incorrect model can be a useful tool.
+                -- Kelvin Throop III
+
+
+The man who follows the crowd will usually get no further than the
+crowd.  The man who walks alone is likely to find himself in places no
+one has ever been.
+                -- Alan Ashley-Pitt
+
+
+"Would you tell me, please, which way I ought to go from here?"
+
+"That depends a good deal on where you want to get to," said the Cat
+                -- Lewis Carrol
+
+It is easier to change the specification to fit the program than vice
+versa.
+
+Try to find the real tense of the report you are reading:  Was it done,
+is it being done, or is something to be done?  Reports are now written
+in four tenses:  past tense, present tense, future tense, and
+pretense.  Watch for novel uses of CONGRAM (CONtractor GRAMmer),
+defined by the imperfect past, the insufficient present, and the
+absolutely perfect future.
+                -- Amrom Katz
+
+If you're right 90% of the time, why quibble about the remaining 3%?
+
+Whenever anyone says, "theoretically", they really mean, "not really".
+                -- Dave Parnas
+
+The light at the end of the tunnel may be an oncoming dragon.
+
+Don't let people drive you crazy when you know it's in walking
+distance.
+
+If you think education is expensive, try ignorance.
+                -- Derek Bok, president of Harvard
+
+"Anything created must necessarily be inferior to the essence of the creator."
+                -- Claude Shouse
+"Einstein's mother must have been one heck of a physicist."
+                -- Joseph C. Wang
+
+"You can't make a program without broken egos."
+
+Innovation is hard to schedule.
+                -- Dan Fylstra
+
+There are three ways to get something done:
+        (1) Do it yourself.
+        (2) Hire someone to do it for you.
+        (3) Forbid your kids to do it.
+
+There are two ways to write error-free programs.  Only the third one
+works.
+
+Viele Probleme kommen von Menschen, die sich für St. Georg halten, in Wirklichkeit aber der Drache sind.
+
+Just go with the flow control, roll with the crunches, and, when you
+get a prompt, type like hell.
+
+The government [is] extremely fond of amassing great quantities of
+statistics.  These are raised to the nth degree, the cube roots are
+extracted, and the results are arranged into elaborate and impressive
+displays.  What must be kept ever in mind, however, is that in every
+case, the figures are first put down by a village watchman, and he puts
+down anything he damn well pleases.
+                -- Sir Josiah Stamp
+
+Some people in this department wouldn't recognize subtlety if it hit
+them on the head.
+
+Everything you know is wrong!
+
+Economists state their GNP growth projections to the nearest tenth of a
+percentage point to prove they have a sense of humor.
+                -- Edgar R. Fiedler
+
+It's not an optical illusion, it just looks like one.
+                -- Phil White
+
+Individualists unite!
+
+Equal bytes for women.
+
+The very powerful and the very stupid have one thing in common.
+Instead of altering their views to fit the facts, they alter the facts
+to fit their views ... which can be very uncomfortable if you happen to
+be one of the facts that needs altering.
+                -- Doctor Who, "Face of Evil"
+
+Tussman's Law:
+        Nothing is as inevitable as a mistake whose time has come.
+
+
+A bird in the bush usually has a friend in there with him.
+
+Renning's Maxim:
+        Man is the highest animal.  Man does the classifying.
+
+In theory, there is no difference between theory and practice, but in practice, there is.
+                     Yogi Berra
+
+The first myth of management is that it exists.  The second myth of
+management is that success equals skill.
+                -- Robert Heller
+
+"Don't worry about people stealing your ideas.  If your ideas are any
+good, you'll have to ram them down people's throats."
+                -- Howard Aiken
+
+Putt's Law:
+        Technology is dominated by two types of people:
+                Those who understand what they do not manage.
+                Those who manage what they do not understand.
+
+Howe's Law:
+        Everyone has a scheme that will not work.
+
+The Official MBA Handbook on business cards:
+        Avoid overly pretentious job titles such as "Lord of the Realm,
+Defender of the Faith, Emperor of India" or "Director of Corporate
+Planning."
+
+Malik zufolge sind die wesentlichen Aufgaben eines Managers:
+
+    * für Ziele zu sorgen
+    * organisieren
+    * Menschen entwickeln und fördern
+    * kontrollieren
+    * entscheiden
+
+
+"The warning message we sent the Russians was a calculated ambiguity
+that would be clearly understood."
+                -- Alexander Haig
+
+"Outside of a dog, a book is a man's best friend: and inside a dog,
+it's too dark to read."
+                -- Groucho Marx
+
+Confidence is the feeling you have before you understand the
+situation.
+
+Perfection is reached, not when there is no longer anything to add, but
+when there is no longer anything to take away.
+                -- Antoine de Saint-Exupery
+
+Time flies like an arrow, but fruit flies like a banana.
+
+Celestial navigation is based on the premise that the Earth is the
+center of the universe.  The premise is wrong, but the navigation
+works.  An incorrect model can be a useful tool.
+                -- Kelvin Throop III
+
+How wonderful opera would be if there were no singers.
+
+The primary cause of failure in electrical appliances is an expired
+warranty.  Often, you can get an appliance running again simply by
+changing the warranty expiration date with a 15/64-inch felt-tipped
+marker.
+                -- Dave Barry, "The Taming of the Screw"
+
+You know you're a little fat if you have stretch marks on your car.
+                -- Cyrus, Chicago Reader 1/22/82
+
+Anything is good and useful if it's made of chocolate.
+
+Prediction is very difficult, especially about the future
+				Niels Bohr (1885-1962)
+
+Hardware, n.:
+        The parts of a computer system that can be kicked.
+
+Consultants are mystical people who ask a company for a number and then
+give it back to them.
+
+Will man messen, muss man Maßstab wissen.
+				Angeblich: Laotse
+
+Paranoia is simply an optimistic outlook on life.
+
+One Page Principle:
+        A specification that will not fit on one page of 8.5x11 inch
+paper cannot be understood.
+                -- Mark Ardis
+
+Five is a sufficiently close approximation to infinity.
+                -- Robert Firth
+
+Today is the first day of the rest of the mess
+
+Experience is something you don't get until just after you need it.
+                -- Olivier
+
+Numeric stability is probably not all that important when you're
+guessing.
+
+Expect the worst, it's the least you can do.
+
+When you have an efficient government, you have a dictatorship.
+                -- Harry Truman
+
+BE ALERT!!!!  (The world needs more lerts ...)
+
+If little green men land in your back yard, hide any little green women
+you've got in the house.
+                -- Mike Harding, "The Armchair Anarchist's Almanac"
+
+Whom computers would destroy, they must first drive mad.
+
+A penny saved is ridiculous.
+
+You can tell how far we have to go, when FORTRAN is the language of
+supercomputers.
+                -- Steven Feiner
+
+Real Users never know what they want, but they always know when your
+program doesn't deliver it.
+
+Everyone talks about apathy, but no one does anything about it.
+
+
+If I have seen farther than others, it is because I was standing on the
+shoulders of giants.
+                -- Isaac Newton
+
+In the sciences, we are now uniquely privileged to sit side by side
+with the giants on whose shoulders we stand.
+                -- Gerald Holton
+
+If I have not seen as far as others, it is because giants were standing
+on my shoulders.
+                -- Hal Abelson
+
+In computer science, we stand on each other's feet.
+                -- Brian K. Reid
+
+Katz' Law:
+        Man and nations will act rationally when all other
+possibilities have been exhausted.
+
+It is easier to change the specification to fit the program than vice
+versa.
+
+Virtue is its own punishment.
+
+There's an old proverb that says just about whatever you want it to.
+
+Do not believe in miracles -- rely on them.
+
+"You have to regard everything I say with suspicion -- I may be trying
+to bullshit you, or I may just be bullshitting you inadvertently."
+                -- J. Wainwright, Mathematics 140b
+
+Every program has at least one bug and can be shortened by at least one
+instruction -- from which, by induction, one can deduce that every
+program can be reduced to one instruction which doesn't work.
+
+One Page Principle:
+        A specification that will not fit on one page of 8.5x11 inch
+paper cannot be understood.
+                -- Mark Ardis
+
+You can tell how far we have to go, when FORTRAN is the language of
+supercomputers.
+                -- Steven Feiner
+
+"I'm in Pittsburgh.  Why am I here?"
+                -- Harold Urey, Nobel Laureate
+
+Langsam's Laws:
+        (1) Everything depends.
+        (2) Nothing is always.
+        (3) Everything is sometimes.
+
+When a Banker jumps out of a window, jump after him -- that's where the
+money is.
+                -- Robespierre
+
+Mosher's Law of Software Engineering:
+        Don't worry if it doesn't work right.  If everything did, you'd
+be out of a job.
+
+Never underestimate the bandwidth of a station wagon full of tapes.
+                -- Dr. Warren Jackson, Director, UTCS
+
+My theology, briefly, is that the universe was dictated but not
+signed.
+                -- Christopher Morley
+
+"Love is an ideal thing, marriage a real thing; a confusion of the real with
+the ideal never goes unpunished."
+                -- Goethe
+
+Everything you know is wrong!
+
+Weeks of coding can save you hours of planning.
+
+"At least they're EXPERIENCED incompetents"
+
+Manual, n.:
+        A unit of documentation.  There are always three or more on a
+given item.  One is on the shelf; someone has the others.  The
+information you need in in the others.
+                -- Ray Simard
+
+Das Dogma ist weniger wert als ein Kuhfladen.
+		-- Mao
+
+"You can't make a program without broken egos."
+
+Der gesunde Menschenverstand ist die Summe der Vorurteile, die man bis zu seinem 18. Lebensjahr angesammelt hat.
+                -- Albert Einstein
+
+Seminars, n.:
+        From "semi" and "arse", hence, any half-assed discussion.
+
+"About the time we think we can make ends meet, somebody moves the
+ends."
+                -- Herbert Hoover
+
+Newton's Little-Known Seventh Law:
+        A bird in the hand is safer than one overhead.
+
+Commitment, n.:
+        Commitment can be illustrated by a breakfast of ham and eggs.
+The chicken was involved, the pig was committed.
+
+Real programmers don't write in FORTRAN.  FORTRAN is for pipe stress
+freaks and crystallography weenies.  FORTRAN is for wimp engineers who
+wear white socks.
+
+"I used to think I was indecisive, but now I'm not so sure."
+
+"The good Christian should beware of mathematicians and all those who
+make empty prophecies.  The danger already exists that mathematicians
+have made a covenant with the devil to darken the spirit and confine
+man in the bonds of Hell."
+                -- St. Augustine
+
+Niveau sieht von unten aus wie Arroganz
+
+Wem Ausbildung zu teuer ist, der sollte es mit Unfähigkeit probieren
+
+Was nützt einem die Gesundheit, wenn man ansonsten ein Idiot ist?
+                -- Theodor W. Adorno
+
+The qotc (quote of the con) was Liz's:
+        "My brain is paged out to my liver"
+
+Harrisberger's Fourth Law of the Lab:
+        Experience is directly proportional to the amount of equipment
+ruined.
+
+        A master was explaining the nature of Tao to one of his
+novices.  "The Tao is embodied in all software -- regardless of how
+insignificant," said the master.
+
+        "Is Tao in a hand-held calculator?" asked the novice.
+
+        "It is," came the reply.
+
+        "Is the Tao in a video game?" continued the novice.
+
+        "It is even in a video game," said the master.
+
+        "And is the Tao in the DOS for a personal computer?"
+
+        The master coughed and shifted his position slightly.  "The
+lesson is over for today," he said.
+                -- "The Tao of Programming"
+
+
+"The only thing we learn from history is that we learn nothing from
+history."
+                -- Hegel
+
+"I know guys can't learn from yesterday ... Hegel must be taking the
+long view."
+                -- John Brunner, "Stand on Zanzibar"
+
+You cannot achieve the impossible without attempting the absurd.
+
+An elephant is a mouse with an operating system.
+
+Take it easy, we're in a hurry.
+
+Politik ist das langsame Bohren harter Bretter
+                -- Max Weber
+
+Selbstmord aus Angst vor dem Tod
+                -- Otto von Bismarck
+
+A budget is just a method of worrying before you spend money, as well
+as afterward.
+
+Linus:  I guess it's wrong always to be worrying about tomorrow.  Maybe
+        we should think only about today.
+Charlie Brown:
+        No, that's giving up.  I'm still hoping that yesterday will get
+        better.
+
+The goal of science is to build better mousetraps.  The goal of nature
+is to build better mice.
+
+Drew's Law of Highway Biology:
+        The first bug to hit a clean windshield lands directly in front
+of your eyes.
+
+Self Test for Paranoia:
+        You know you have it when you can't think of anything that's
+your own fault.
+
+Wethern's Law:
+        Assumption is the mother of all screw-ups.
+
+"I hate quotations."
+                -- Ralph Waldo Emerson
+
+One-Shot Case Study, n.:
+        The scientific equivalent of the four-leaf clover, from which
+it is concluded all clovers possess four leaves and are sometimes
+green.
+
+Lieberman's Law:
+        Everybody lies, but it doesn't matter since nobody listens.
+
+All true wisdom is found on T-shirts.
+
+If you want divine justice, die.
+                -- Nick Seldon
+
+Help fight continental drift.
+
+Nasrudin walked into a teahouse and declaimed, "The moon is more useful
+than the sun."  "Why?", he was asked.  "Because at night we need the
+light more."
+
+Put no trust in cryptic comments.
+
+A budget is just a method of worrying before you spend money, as well
+as afterward.
+
+Beware of Programmers who carry screwdrivers.
+                -- Leonard Brandwein
+
+One can't proceed from the informal to the formal by formal means.
+
+It is easier to write an incorrect program than understand a correct
+one.
+
+Wethern's Law:
+        Assumption is the mother of all screw-ups.
+
+"I shot an arrow into the air, and it stuck."
+                -- Graffito in Los Angeles
+
+Talkers are no good doers.
+                -- William Shakespeare, "Henry VI"
+
+"If a team is in a positive frame of mind, it will have a good
+attitude.  If it has a good attitude, it will make a commitment to
+playing the game right.  If it plays the game right, it will win --
+unless, of course, it doesn't have enough talent to win, and no manager
+can make goose-liver pate out of goose feathers, so why worry?"
+                -- Sparky Anderson
+
+"When in doubt, tell the truth."
+                -- Mark Twain
+
+Nasrudin walked into a teahouse and declaimed, "The moon is more useful
+than the sun."  "Why?", he was asked.  "Because at night we need the
+light more."
+
+
+THE GOLDEN RULE OF ARTS AND SCIENCES
+        The one who has the gold makes the rules.
+
+Ein gutes Leben im falschen ist gar nicht so schlecht
+                -- Fischfinger
+
+Be free and open and breezy!  Enjoy!  Things won't get any better so
+get used to it.
+
+Meskimen's Law:
+        There's never time to do it right, but there's always time to
+do it over.
+
+Der richtige Zeitpunkt ist immer jetzt.
+                -- Nelson Mandela
+
+"Well," Brahma said, "even after ten thousand explanations, a fool is
+no wiser, but an intelligent man requires only two thousand five
+hundred."
+                -- The Mahabharata.
+
+Our policy is, when in doubt, do the right thing.
+                -- Roy L. Ash, ex-president Litton Industries
+
+"Would you tell me, please, which way I ought to go from here?"
+
+"That depends a good deal on where you want to get to," said the Cat
+                -- Lewis Carrol
+
+"Stealing a rhinoceros should not be attempted lightly."
+
+Be braver -- you can't cross a chasm in two small jumps.
+
+Which is worse: ignorance or apathy?  Who knows?  Who cares?
+
+Experience is the worst teacher.  It always gives the test first and
+the instruction afterward.
+
+Teamwork is essential -- it allows you to blame someone else.
+
+Impossible, adj.:
+        (1) I wouldn't like it and when it happens I won't approve;
+(2) I can't be bothered; (3) God can't be bothered.  Meaning (3) may
+perhaps be valid but the others are 101% whaledreck.
+                -- Chad C. Mulligan, "The Hipcrime Vocab"
+
+The biggest difference between time and space is that you can't reuse
+time.
+                -- Merrick Furst
+
+Every program has at least one bug and can be shortened by at least one
+instruction -- from which, by induction, one can deduce that every
+program can be reduced to one instruction which doesn't work.
+
+Nostalgia isn't what it used to be.
+
+"I don't have any solution but I certainly admire the problem."
+                -- Ashleigh Brilliant
+
+I am an atheist, thank God!
+
+"We demand rigidly defined areas of doubt and uncertainty!"
+                -- Vroomfondel
+
+"Man invented language to satisfy his deep need to complain."
+                -- Lily Tomlin
+
+Thou shalt not omit adultery.
+
+God must love the Common Man; He made so many of them.
+
+Expect the worst, it's the least you can do.
+
+How many hardware engineers does it take to change a lightbulb?
+None: "We'll fix it in software."
+
+How many software engineers does it take to change a lightbulb?
+None: "We'll document it in the manual."
+
+How many tech writers does it take to change a lightbulb?
+None: "The user can work it out."
+
+Everyone talks about apathy, but no one does anything about it.
+
+"Wagner's music is better than it sounds."
+                -- Mark Twain
+
+ch glaube an das Pferd. Das Automobil ist eine vorübergehende Erscheinung.
+                -- Kaiser Wilhelm II.
+
+Indifference will be the downfall of mankind, but who cares?
+
+"You've got to think about tomorrow!"
+"TOMORROW!  I haven't even prepared for *yesterday* yet!"
+
+The Fifth Rule:
+        You have taken yourself too seriously.
+
+"If that makes any sense to you, you have a big problem."
+                -- C. Durance, Computer Science 234
+
+If you wish to live wisely, ignore sayings -- including this one.
+
+The road to hell is paved with good intentions.  And littered with
+sloppy analysis!
+
+Avoid reality at all costs.
+
+It is much easier to suggest solutions when you know nothing about the
+problem.
+
+Some programming languages manage to absorb change but withstand
+progress.
+
+Those who can't write, write manuals.
+
+"There is no reason for any individual to have a computer in their
+home."
+                -- Ken Olson, President of DEC, World Future Society
+                   Convention, 1977
+
+Ninety-Ninety Rule of Project Schedules:
+        The first ninety percent of the task takes ninety percent of
+the time, and the last ten percent takes the other ninety percent.
+
+A real patriot is the fellow who gets a parking ticket and rejoices
+that the system works.
+
+It may be that your whole purpose in life is simply to serve as a
+warning to others.
+
+It is easier to change the specification to fit the program than vice
+versa.
+
+I cannot conceive that anybody will require multiplications at the rate
+of 40,000 or even 4,000 per hour ...
+                -- F. H. Wales (1936)
+
+
+Expect the worst, it's the least you can do.
+
+"Beware of bugs in the above code; I have only proved it correct, not
+tried it."
+                -- Donald Knuth
+
+All Finagle Laws may be bypassed by learning the simple art of doing
+without thinking.
+
+Murphy's Law is recursive.  Washing your car to make it rain doesn't
+work.
+
+Zero Defects, n.:
+        The result of shutting down a production line.
+
+Accident, n.:
+        A condition in which presence of mind is good, but absence of
+body is better.
+
+There are no data that cannot be plotted on a straight line if the axis
+are chosen correctly.
+
+Heller's Law:
+        The first myth of management is that it exists.
+
+Johnson's Corollary:
+        Nobody really knows what is going on anywhere within the
+organization.
+
+"I had to hit him -- he was starting to make sense."
+
+"I only touch base with reality on an as-needed basis!"
+                -- Royal Floyd Mengot (Klaus)
+
+Kinkler's First Law:
+        Responsibility always exceeds authority.
+
+Kinkler's Second Law:
+        All the easy problems have been solved.
+
+Teamwork is essential -- it allows you to blame someone else.
+
+Real software engineers work from 9 to 5, because that is the way the
+job is described in the formal spec.  Working late would feel like
+using an undocumented external procedure.
+
+If you had any brains, you'd be dangerous.
+
+Real Users find the one combination of bizarre input values that shuts
+down the system for days.
+
+Westheimer's Discovery:
+        A couple of months in the laboratory can frequently save a
+couple of hours in the library.
+
+Harrisberger's Fourth Law of the Lab:
+        Experience is directly proportional to the amount of equipment
+ruined.
+
+The superfluous is very necessary.
+                -- Voltaire
+
+It's easier to fight for one's principles than to live up to them.
+
+If you think education is expensive, try ignorance.
+                -- Derek Bok, president of Harvard
+
+Just go with the flow control, roll with the crunches, and, when you
+get a prompt, type like hell.
+
+An idea is not responsible for the people who believe in it.
+
+Heller's Law:
+        The first myth of management is that it exists.
+
+Johnson's Corollary:
+        Nobody really knows what is going on anywhere within the
+organization.
+
+The number of arguments is unimportant unless some of them are
+correct.
+                -- Ralph Hartley
+
+"On two occasions I have been asked [by members of Parliament!], `Pray,
+Mr.  Babbage, if you put into the machine wrong figures, will the right
+answers come out?'  I am not able rightly to apprehend the kind of
+confusion of ideas that could provoke such a question."
+                -- Charles Babbage
+
+The reason computer chips are so small is computers don't eat much.
+
+Never underestimate the bandwidth of a station wagon full of tapes.
+                -- Dr. Warren Jackson, Director, UTCS
+
+Van Roy's Law:
+        An unbreakable toy is useful for breaking other toys.
+
+Meskimen's Law:
+        There's never time to do it right, but there's always time to
+do it over.
+
+"Well," Brahma said, "even after ten thousand explanations, a fool is
+no wiser, but an intelligent man requires only two thousand five
+hundred."
+                -- The Mahabharata.
+
+Im Überlandtaxi durch die kubanische Provinz, noch eine Stunde bis Havanna. Der Fahrer erzählt von dem Esel, der ihm kürzlich vors Auto lief, "dummer Esel". Wie er so redet, überfährt er ein Schwein. Ein wildes Ferkel, es kam aus dem Gebüsch. "Dummes Schwein", sagt der Fahrer und hält.
+
+Der Deutsche überlegt, wie man das sterbende Tier von seinem Leid erlösen kann. Der Fahrer überlegt, was man dazu essen soll. Aber er darf es nicht mitnehmen: neue Regel, "keine toten Tiere im Taxi", der Gestank.
+
+Er fährt den Kilometer ins nächste Dorf und brüllt etwas von einem toten Ferkel aus dem Fenster. Die Leute vor den Bretterhütten lassen Schaufel und Baseballschläger fallen, rennen los Richtung Schwein. Nur einer rennt weg, hinter einen Schuppen.
+
+Nach ein paar Sekunden ist er wieder da - auf einem Fahrrad. Nicht dumm.
+
+(Roman Deininger ,SZ vom 6./7.6.2009)
+
+God is real, unless declared integer.
+
+When the weight of the paperwork equals the weight of the plane, the
+plane will fly.
+                -- Donald Douglas
+
+The human mind treats a new idea the way the body treats a strange
+protein -- it rejects it.
+                -- P. Medawar
+
+The moon may be smaller than Earth, but it's further away.
+
+Perfection is reached, not when there is no longer anything to add, but
+when there is no longer anything to take away.
+                -- Antoine de Saint-Exupery
+
+If you had any brains, you'd be dangerous.
+
+Mollison's Bureaucracy Hypothesis:
+        If an idea can survive a bureaucratic review and be implemented
+it wasn't worth doing.
+
+I can't understand it.  I can't even understand the people who can
+understand it.
+                -- Queen Juliana of the Netherlands.
+
+Always remember that you are unique.  Just like everyone else.
+
+The Heineken Uncertainty Principle:
+        You can never be sure how many beers you had last night.
+
+Boren's Laws:
+        (1) When in charge, ponder.
+        (2) When in trouble, delegate.
+        (3) When in doubt, mumble.
+
+What good is having someone who can walk on water if you don't follow
+in his footsteps?
+
+"Don't tell me I'm burning the candle at both ends -- tell me where to
+get more wax!!"
+
+Real programmers don't draw flowcharts.  Flowcharts are, after all, the
+illiterate's form of documentation.  Cavemen drew flowcharts; look how
+much good it did them.
+
+One Page Principle:
+        A specification that will not fit on one page of 8.5x11 inch
+paper cannot be understood.
+                -- Mark Ardis
+
+A Puritan is someone who is deathly afraid that someone, somewhere, is
+having fun.
+
+Do you realize how many holes there could be if people would just take
+the time to take the dirt out of them?
+
+There's no future in time travel
+
+Underlying Principle of Socio-Genetics:
+        Superiority is recessive.
+
+Nothing astonishes men so much as common sense and plain dealing.
+
+Never make anything simple and efficient when a way can be found to
+make it complex and wonderful.
+
+"There is no reason for any individual to have a computer in their
+home."
+                -- Ken Olson, President of DEC, World Future Society
+                   Convention, 1977
+
+It's not an optical illusion, it just looks like one.
+                -- Phil White
+
+More than any time in history, mankind now faces a crossroads.  One
+path leads to despair and utter hopelessness, the other to total
+extinction.  Let us pray that we have the wisdom to choose correctly.
+                -- Woody Allen
+
+If two wrongs don't make a right, try three.
+                -- Laurence J. Peter
+
+Intolerance is the last defense of the insecure.
+
+As soon as we started programming, we found to our surprise that it
+wasn't as easy to get programs right as we had thought.  Debugging had
+to be discovered.  I can remember the exact instant when I realized
+that a large part of my life from then on was going to be spent in
+finding mistakes in my own programs.
+                -- Maurice Wilkes discovers debugging, 1949
+
+The nice thing about standards is that there are so many of them to
+choose from.
+                -- Andrew S. Tanenbaum
+
+Weiler's Law:
+        Nothing is impossible for the man who doesn't have to do it
+himself.
+
+Science is facts; just as houses are made of stones, so is science made
+of facts; but a pile of stones is not a house and a collection of facts
+is not necessarily science.
+                -- Henri Poincaire
+
+Condense soup, not books!
+
+"We demand rigidly defined areas of doubt and uncertainty!"
+                -- Vroomfondel
+
+Reisner's Rule of Conceptual Inertia:
+        If you think big enough, you'll never have to do it.
+
+Ein Ding ist nicht dann perfekt, wenn man nichts mehr
+hinzufügen kann, sondern dann, wenn man nichts mehr
+weglassen kann.
+		Antoine de Saint-Exupéry
+
+Und dann ersetzen Pläne Zufall durch Irrtum
+
+When you don't know what you are doing, do it neatly.
+
+A conservative is a man who believes that nothing should be done for
+the first time.
+                -- Alfred E. Wiggam
+
+Zero Defects, n.:
+        The result of shutting down a production line.
+
+Have an adequate day.
+
+Gray's Law of Programming:
+        `n+1' trivial tasks are expected to be accomplished in the same
+time as `n' tasks.
+
+Logg's Rebuttal to Gray's Law:
+        `n+1' trivial tasks take twice as long as `n' trivial tasks.
+
+If you think the problem is bad now, just wait until we've solved it.
+                -- Arthur Kasspe
+
+Concept, n.:
+        Any "idea" for which an outside consultant billed you more than
+$25,000.
+
+You need no longer worry about the future.  This time tomorrow you'll
+be dead.
+
+Any clod can have the facts, but having an opinion is an art.
+                -- Charles McCabe
+
+It is easier to get forgiveness than permission.
+
+Commitment, n.:
+        Commitment can be illustrated by a breakfast of ham and eggs.
+The chicken was involved, the pig was committed.
+
+Flaggen sind sichtbar gemachter Wind
+                -- Elias Canetti
+
+Be braver -- you can't cross a chasm in two small jumps.
+
+The fact that it works is immaterial.
+                -- L. Ogborn
+
+It's lucky you're going so slowly, because you're going in the wrong
+direction.
+
+The first myth of management is that it exists.  The second myth of
+management is that success equals skill.
+                -- Robert Heller
+
+The trouble with doing something right the first time is that nobody
+appreciates how difficult it was.
+
+"Don't tell me I'm burning the candle at both ends -- tell me where to
+get more wax!!"
+
+
+Just because everything is different doesn't mean anything has
+changed.
+                -- Irene Peter
+
+New systems generate new problems.
+
+Anybody can win, unless there happens to be a second entry.
+
+You know you're a little fat if you have stretch marks on your car.
+                -- Cyrus, Chicago Reader 1/22/82
+
+Not everything that counts can be counted; not everything that can be counted counts.
+                -— Albert Einstein
+
+The trouble with being punctual is that nobody's there to appreciate
+it.
+                -- Franklin P. Jones
+
+The sooner you make your first 5000 mistakes, the sooner you will be
+able to correct them.
+                -- Nicolaides
+
+On the subject of C program indentation:
+
+        "In My Egotistical Opinion, most people's C programs should be
+        indented six feet downward and covered with dirt."
+                -- Blair P. Houghton
+
+                      THE STORY OF CREATION
+                               or
+                         THE MYTH OF URK
+
+In the beginning there was data.  The data was without form and null,
+and darkness was upon the face of the console; and the Spirit of IBM
+was moving over the face of the market.  And DEC said, "Let there be
+registers"; and there were registers.  And DEC saw that they carried;
+and DEC separated the data from the instructions.  DEC called the data
+Stack, and the instructions they called Code.  And there was evening
+and there was morning, one interrupt ...
+                -- Rico Tudor
+
+Real software engineers work from 9 to 5, because that is the way the
+job is described in the formal spec.  Working late would feel like
+using an undocumented external procedure.
+
+Whenever anyone says, "theoretically", they really mean, "not really".
+                -- Dave Parnas
+
+If you want divine justice, die.
+                -- Nick Seldon
+
+A professor is one who talks in someone else's sleep.
+
+"An ounce of prevention is worth a pound of purge."
+
+"At least they're EXPERIENCED incompetents"
+
+
+How many hardware engineers does it take to change a lightbulb?
+None: "We'll fix it in software."
+
+How many software engineers does it take to change a lightbulb?
+None: "We'll document it in the manual."
+
+How many tech writers does it take to change a lightbulb?
+None: "The user can work it out."
+
+
+It is easier to write an incorrect program than understand a correct
+one.
+
+Human beings were created by water to transport it uphill.
+
+A budget is just a method of worrying before you spend money, as well
+as afterward.
+
+Any time things appear to be going better, you have overlooked
+something.
+
+Jone's Motto:
+        Friends come and go, but enemies accumulate.
+
+Experience is what causes a person to make new mistakes instead of old
+ones.
+
+Putt's Law:
+        Technology is dominated by two types of people:
+                Those who understand what they do not manage.
+                Those who manage what they do not understand.
+
+Twenty Percent of Zero is Better than Nothing.
+                -- Walt Kelly
+
+Fourth Law of Applied Terror:
+        The night before the English History mid-term, your Biology
+instructor will assign 200 pages on planaria.
+
+Corollary:
+        Every instructor assumes that you have nothing else to do
+except study for that instructor's course.
+
+All Finagle Laws may be bypassed by learning the simple art of doing
+without thinking.
+
+Ever notice that even the busiest people are never too busy to tell you
+just how busy they are.
+
+Be braver -- you can't cross a chasm in two small jumps.
+
+Innovation is hard to schedule.
+                -- Dan Fylstra
+
+Grelb's Reminder:
+        Eighty percent of all people consider themselves to be above
+average drivers.
+
+A lack of leadership is no substitute for inaction.
+
+Paul's Law:
+        You can't fall off the floor.
+
+First Law of Bicycling:
+        No matter which way you ride, it's uphill and against the
+wind.
+
+Smoking is one of the leading causes of statistics.
+                -- Fletcher Knebel
+
+If I have seen farther than others, it is because I was standing on the
+shoulders of giants.
+                -- Isaac Newton
+
+In the sciences, we are now uniquely privileged to sit side by side
+with the giants on whose shoulders we stand.
+                -- Gerald Holton
+
+If I have not seen as far as others, it is because giants were standing
+on my shoulders.
+                -- Hal Abelson
+
+In computer science, we stand on each other's feet.
+                -- Brian K. Reid
+
+I have yet to see any problem, however complicated, which, when looked
+at in the right way, did not become still more complicated.
+                -- Poul Anderson
+
+Too clever is dumb.
+                -- Ogden Nash
+
+To be sure of hitting the target, shoot first and, whatever you hit,
+call it the target.
+
+It's no surprise that things are so screwed up: everyone that knows how
+to run a government is either driving taxicabs or cutting hair.
+                -- George Burns
+
+A lack of leadership is no substitute for inaction.
+
+If you eat a live frog in the morning, nothing worse will happen to
+either of you for the rest of the day.
+
+Stult's Report:
+        Our problems are mostly behind us.  What we have to do now is
+fight the solutions.
+
+Larkinson's Law:
+        All laws are basically false.
+
+If you think education is expensive, try ignorance.
+                -- Derek Bok, president of Harvard
+
+There's a fine line between courage and foolishness.  Too bad it's not
+a fence.
+
+You can tell how far we have to go, when FORTRAN is the language of
+supercomputers.
+                -- Steven Feiner
+
+Whenever you find that you are on the side of the majority, it is time
+to reform.
+                -- Mark Twain
+
+Man usually avoids attributing cleverness to somebody else -- unless it
+is an enemy.
+                -- Albert Einstein
+
+Indifference will be the downfall of mankind, but who cares?
+
+In the space of one hundred and seventy-six years the Mississippi has
+shortened itself two hundred and forty-two miles.  Therefore ... in the
+Old Silurian Period the Mississippi River was upward of one million
+three hundred thousand miles long ... seven hundred and forty-two years
+from now the Mississippi will be only a mile and three-quarters long.
+... There is something fascinating about science.  One gets such
+wholesome returns of conjecture out of such a trifling investment of
+fact.
+                -- Mark Twain
+
+The Roman Rule
+        The one who says it cannot be done should never interrupt the
+        one who is doing it.
+
+Real Users hate Real Programmers.
+
+Ducharme's Axiom:
+        If you view your problem closely enough you will recognize
+yourself as part of the problem.
+
+Human beings were created by water to transport it uphill.
+
+Lubarsky's Law of Cybernetic Entomology:
+        There is always one more bug.
+
+"Stealing a rhinoceros should not be attempted light"
+
+Serving coffee on aircraft causes turbulence.
+
+Even if you do learn to speak correct English, whom are you going to
+speak it to?
+               -- Clarence Darrow
+
+Bolub's Fourth Law of Computerdom:
+        Project teams detest weekly progress reporting because it so
+vividly manifests their lack of progress.
+
+One cannot make an omelette without breaking eggs -- but it is amazing
+how many eggs one can break without making a decent omelette.
+                -- Professor Charles P. Issawi
+
+Every improvement in communication makes the bore more terrible.
+                -- Frank Moore Colby
+
+Remember:  Silly is a state of Mind, Stupid is a way of Life.
+                -- Dave Butler
+
+Laugh at your problems; everybody else does.
+
+Kinkler's First Law:
+        Responsibility always exceeds authority.
+
+Kinkler's Second Law:
+        All the easy problems have been solved.
+
+The trouble with being punctual is that nobody's there to appreciate
+it.
+                -- Franklin P. Jones
+
+Commitment, n.:
+        Commitment can be illustrated by a breakfast of ham and eggs.
+The chicken was involved, the pig was committed.
+
+Unnamed Law:
+        If it happens, it must be possible.
+
+Meskimen's Law:
+        There's never time to do it right, but there's always time to
+do it over.
+
+"I'm prepared for all emergencies but totally unprepared for everyday
+life."
+
+Real Users never use the Help key.
+
+Yes, but every time I try to see things your way, I get a headache.
+
+By doing just a little every day, you can gradually let the task
+completely overwhelm you.
+
+One good reason why computers can do more work than people is that they
+never have to stop and answer the phone.
+
+Am Fusse eines Leuchtturms ist kein Licht
+                  -- Chinesisches Sprichwort
+
+A closed mouth gathers no foot.
+
+Endless Loop: n., see Loop, Endless.
+Loop, Endless: n., see Endless Loop.
+                -- Random Shack Data Processing Dictionary
+
+"The last time somebody said, `I find I can write much better with a
+word processor.', I replied, `They used to say the same thing about
+drugs.'
+                -- Roy Blount, Jr.
+
+A great many people think they are thinking when they are merely
+rearranging their prejudices.
+                -- William James
+
+Man usually avoids attributing cleverness to somebody else -- unless it
+is an enemy.
+                -- Albert Einstein
+
+Cocaine is nature's way of telling you you have too much money.
+
+The light at the end of the tunnel may be an oncoming dragon.
+
+Eagleson's Law:
+        Any code of your own that you haven't looked at for six or more
+months, might as well have been written by someone else.  (Eagleson is
+an optimist, the real number is more like three weeks.)
+
+If the code and the comments disagree, then both are probably wrong.
+                -- Norm Schryer
+
+Zu Beginn eines Projektes sollte man vor allen Dingen eines machen,
+man sollte zu denken beginnen.
+
+Data is like garbage. You better be sure what you’re going to do with it before you collect it (Mark Twain). 
+
+We are all agreed that your theory is crazy.  The question which
+divides us is whether it is crazy enough to have a chance of being
+correct.  My own feeling is that it is not crazy enough.
+                -- Niels Bohr
+
+Wer nicht bereits ist, den Boden unter den Füßen zu verlieren, wird niemals fliegen
+                -- Peter Kruse
+
+"Man invented language to satisfy his deep need to complain."
+                -- Lily Tomlin
+
+Brook's Law:
+        Adding manpower to a late software project makes it later
+
+"When you are in it up to your ears, keep your mouth shut."
+
+Blessed are they who Go Around in Circles, for they Shall be Known as
+Wheels.
+
+"I like work ... I can sit and watch it for hours."
+
+"I may not be totally perfect, but parts of me are excellent."
+                -- Ashleigh Brilliant
+
+"Stealing a rhinoceros should not be attempted lightly."
+
+Yes, but every time I try to see things your way, I get a headache.
+
+It is much easier to suggest solutions when you know nothing about the
+problem.
+
+A strong conviction that something must be done is the parent of many
+bad measures.
+                -- Daniel Webster
+
+Paradise is exactly like where you are right now ... only much, much
+better.
+                -- Laurie Anderson
+
+Millions long for immortality who do not know what to do with
+themselves on a rainy Sunday afternoon.
+                -- Susan Ertz
+
+If you perceive that there are four possible ways in which a procedure
+can go wrong, and circumvent these, then a fifth way will promptly
+develop.
+
+To err is human, to forgive is Not Company Policy.
+
+Experience is the worst teacher.  It always gives the test first and
+the instruction afterward.
+
+When you try to make an impression, the chances are that is the
+impression you will make.
+
+Science is facts; just as houses are made of stones, so is science made
+of facts; but a pile of stones is not a house and a collection of facts
+is not necessarily science.
+                -- Henri Poincaire
+
+Real programmers don't comment their code.  It was hard to write, it
+should be hard to understand.
+
+Furious activity is no substitute for understanding.
+                -- H. H. Williams
+
+Real Users never know what they want, but they always know when your
+program doesn't deliver it.
+
+A Law of Computer Programming:
+        Make it possible for programmers to write in English and you
+will find the programmers cannot write in English.
+
+Laws of Serendipity:
+
+        (1) In order to discover anything, you must be looking for
+            something.
+        (2) If you wish to make an improved product, you must already
+            be engaged in making an inferior one.
+
+Crash programs fail because they are based on the theory that, with
+nine women pregnant, you can get a baby a month.
+                -- Wernher von Braun
+
+Cigarette, n.:
+        A fire at one end, a fool at the other, and a bit of tobacco in
+between.
+
+
+"There are two ways of constructing a software design: One way is to
+make is so simple that there are obviously no deficiencies, and the
+other way is to make it so complicated that there are no obvious
+deficiencies."
+                -- C. A. R. Hoare
+
+When a place gets crowded enough to require ID's, social collapse is
+not far away.  It is time to go elsewhere.  The best thing about space
+travel is that it made it possible to go elsewhere.
+                -- Robert Heinlein
+
+The more we disagree, the more chance there is that at least one of us
+is right.
+
+If you are a fatalist, what can you do about it?
+                -- Ann Edwards-Duff
+
+Helping a team become self-managing is about giving them the direction and guidance they need to be successful. While it may seem like we give up some control, we are in fact empowering them to act with energy and innovativeness while being grounded by strategy, methodology and goals.
+
+What good is having someone who can walk on water if you don't follow in his footsteps?
+
+The objective of all dedicated employees should be to thoroughly
+analyze all situations, anticipate all problems prior to their
+occurrence, have answers for these problems, and move swiftly to solve
+these problems when called upon.
+However, When you are up to your ass in alligators it is difficult to
+remind yourself your initial objective was to drain the swamp.
+
+A day without sunshine is like night.
+
+As soon as we started programming, we found to our surprise that it
+wasn't as easy to get programs right as we had thought.  Debugging had
+to be discovered.  I can remember the exact instant when I realized
+that a large part of my life from then on was going to be spent in
+finding mistakes in my own programs.
+                -- Maurice Wilkes discovers debugging, 1949
+
+If you think education is expensive, try ignorance.
+                -- Derek Bok, president of Harvard
+
+If you want to know what god thinks of money, just look at the people
+he gave it to.
+                -- Dorthy Parker
+
+The sooner you make your first 5000 mistakes, the sooner you will be
+able to correct them.
+                -- Nicolaides
+
+Numeric stability is probably not all that important when you're
+guessing.
+
+Eagleson's Law:
+        Any code of your own that you haven't looked at for six or more
+months, might as well have been written by someone else.  (Eagleson is
+an optimist, the real number is more like three weeks.)
+
+
+Law of Communications:
+        The inevitable result of improved and enlarged communications
+between different levels in a hierarchy is a vastly increased area of
+misunderstanding.
+
+People who claim they don't let little things bother them have never
+slept in a room with a single mosquito.
+
+"Let me assure you that to us here at First National, you're not just a
+number.  You're two numbers, a dash, three more numbers, another dash
+and another number."
+                -- James Estes
+
+One can't proceed from the informal to the formal by formal means.
+
+The Heineken Uncertainty Principle:
+        You can never be sure how many beers you had last night.
+
+Radioactive cats have 18 half-lives.
+
+Furious activity is no substitute for understanding.
+                -- H. H. Williams
+
+Some people have a way about them that seems to say: "If I have only
+one life to live, let me live it as a jerk."
+
+One cannot make an omelette without breaking eggs -- but it is amazing
+how many eggs one can break without making a decent omelette.
+                -- Professor Charles P. Issawi
+
+If you want divine justice, die.
+                -- Nick Seldon
+
+"I haven't lost my mind -- it's backed up on tape somewhere."
+
+Lost interest?  It's so bad I've lost apathy.
+
+If you only have a hammer, you tend to see every problem as a nail.
+                -- Maslow
+
+"Deliver yesterday, code today, think tomorrow."
+
+"Virtual" means never knowing where your next byte is coming from.
+
+It's easier to fight for one's principles than to live up to them.
+
+Intolerance is the last defense of the insecure.
+
+It's lucky you're going so slowly, because you're going in the wrong
+direction.
+
+"Nondeterminism means never having to say you are wrong."
+
+Perfection is reached, not when there is no longer anything to add, but
+when there is no longer anything to take away.
+                -- Antoine de Saint-Exupery
+
+"Deliver yesterday, code today, think tomorrow."
+
+Fuch's Warning:
+        If you actually look like your passport photo, you aren't well
+enough to travel.
+
+If someone had told me I would be Pope one day, I would have studied
+harder.
+                -- Pope John Paul I
+
+She's genuinely bogus.
+
+        "... The name of the song is called 'Haddocks' Eyes'!"
+        "Oh, that's the name of the song, is it?" Alice said, trying to
+feel interested.
+        "No, you don't understand," the Knight said, looking a little
+vexed.  "That's what the name is called.  The name really is, 'The Aged
+Aged Man.'"
+        "Then I ought to have said "That's what the song is called'?"
+Alice corrected herself.
+        "No, you oughtn't:  that's quite another thing!  The song is
+called 'Ways and Means':  but that's only what it is called you know!"
+        "Well, what is the song then?" said Alice, who was by this time
+completely bewildered.
+        "I was coming to that," the Knight said.  "The song really is
+"A-sitting on a Gate":  and the tune's my own invention."
+                -- Lewis Carroll, "Through the Looking Glass"
+
+Hackers do it with fewer instructions.
+
+"Reality is that which, when you stop believing in it, doesn't go
+away".
+                -- Philip K. Dick
+
+The confusion of a staff member is measured by the length of his
+memos.
+                -- New York Times, Jan. 20, 1981
+
+You are only young once, but you can stay immature indefinitely.
+
+Die einzige Gewinnerin der vielen Meetings ist die Firma Bahlsen
+
+Why does New Jersey have more toxic waste dumps and California have
+more lawyers?
+
+New Jersey had first choice.
+
+Smoking is one of the leading causes of statistics.
+                -- Fletcher Knebel
+
+Common sense is the collection of prejudices acquired by age eighteen.
+                -- Albert Einstein
+
+Ein Bild lügt schneller als tausend Zahlen
+               -- Jens Jürgen Korff
+
+
+If you want to know what god thinks of money, just look at the people
+he gave it to.
+                -- Dorthy Parker
+
+The best defense against logic is ignorance.
+
+Wer will findet Wege und wer nicht will findet Gründe!
+               -- Götz Werner
+
+In a level 2 company there is training on ##. In a level 1 company you have
+to search the internet to know what to do.
+
+Furious activity is no substitute for understanding.
+                -- H. H. Williams
+
+Wenn Du willst Speck, Du musst schlachten Schwein.
+
+Sattinger's Law:
+        It works better if you plug it in.
+
+Quick!!  Act as if nothing has happened!
+
+It's lucky you're going so slowly, because you're going in the wrong
+direction.
+
+Howe's Law:
+        Everyone has a scheme that will not work.
+
+When the weight of the paperwork equals the weight of the plane, the
+plane will fly.
+                -- Donald Douglas
+
+
+Es genügt nicht zu wissen, man muss es auch anwenden.
+Es genügt nicht zu wollen, man muss es auch tun.
+                -- Johann Wolfgang von Goethe
+
+Rule of Defactualization:
+        Information deteriorates upward through bureaucracies.
+
+The only thing to do with good advice is pass it on.  It is never any
+use to oneself.
+                -- Oscar Wilde
+
+Unternehmen sind planwirtschaftliche Inseln im Markt.
+                -- Michael Seemann
+
+Real Users hate Real Programmers.
+
+Experience is what causes a person to make new mistakes instead of old
+ones.
+
+„Die reinste Form des Wahnsinns ist es, alles beim Alten zu lassen und gleichzeitig zu hoffen, dass sich etwas ändert.“
+                -- Albert Einstein 
+
+Insanity is doing the same things over and over again and hoping the outcome to be different (let alone better)
+                -- Albert Einstein 1879-1955, Benjamin Franklin 1706-1790, it seems Franklin was first
+
+Ignorance can be cured, stupidity is terminal 
+                -- Edward Weller
+
+We are here to make another world.
+                -- W. Edwards Deming
+
+It is not necessary to change. Survival is not mandatory.
+                -- W. Edwards Deming
+
+Veränderung muss nicht sein. Überleben ist nicht Pflicht.
+                -- W. Edwards Deming
+
+Wenn Du in dieser Welt bleibst, wirst Du nie eine andere kennen lernen.
+                -- W. Edwards Deming
+
+Ein schlechtes System wird eine gute Person immer schlagen.
+                -- W. Edwards Deming
+
+If the code and the comments disagree, then both are probably wrong.
+                -- Norm Schryer
+
+Konform, uniform, chloroform
+                -- Heribert Prantl
+
+Dunning-Kruger-Effekt: 
+ - Wir sind nicht nur nicht in der Lage, unsere eigene Inkompetenz zu erkennen, sondern überschätzen uns auch noch maßlos. 
+ - Unwissenheit führt zu mehr Selbstvertrauen.
+                -- Burkhard Schröder
+
+People often find it easier to be a result of the past than a cause of the future.
+
+Wo Wege vorgeschrieben sind, bleiben Entdeckungen aus 
+                -- Erhard Horst Bellermann
+
+What gets us into trouble is not what we don’t know, but what we know for sure that just ain’t so
+                -- Mark Twain
+
+Umwege erhöhen die Ortskenntnis
+
+Überzeugungen sind für die Wahrheit gefährlicher als Lügen
+                -- Friedrich Nietzsche
+
+Wenn ich acht Stunden Zeit hätte um einen Baum zu fällen, würde ich sechs Stunden die Axt schleifen.
+                -- Abraham Lincoln
+
+
+What they say:                          What they mean:
+
+A major technological breakthrough...   Back to the drawing board.
+Developed after years of research       Discovered by pure accident.
+Project behind original schedule due    We're working on something else.
+        to unforeseen difficulties
+Designs are within allowable limits     We made it, stretching a point or two.
+Customer satisfaction is believed       So far behind schedule that they'll be
+        assured                                 grateful for anything at all.
+Close project coordination              We're gonna spread the blame, campers!
+Test results were extremely gratifying  It works, and boy, were we surprised!
+The design will be finalized...         We haven't started yet, but we've got
+                                                to say something.
+The entire concept has been rejected    The guy who designed it quit.
+We're moving forward with a fresh       We hired three new guys, and they're
+        approach                                kicking it around.
+A number of different approaches...     We don't know where we're going, but
+                                                we're moving.
+Preliminary operational tests are       Blew up when we turned it on.
+        inconclusive
+Modifications are underway              We're starting over.
+
+Making one brilliant decision and a whole bunch of mediocre ones isn't as
+good as making a whole bunch of generally smart decisions throughout the
+whole process.
+                -- John Carmack
+
+If what they've been doing hasn't solved the problem, tell them to
+do something else.
+                -- Gerald Weinberg, "The Secrets of Consulting"
+
+All generalizations are false, including this one.
+                -- Mark Twain
+
+Even if you're on the right track, you'll get run over if you just sit there.
+                -- Will Rogers
+
+Udall's Fourth Law:
+        Any change or reform you make is going to have consequences you
+        don't like.
+
+Good judgement comes from experience.  Experience comes from bad judgement.
+                -- Jim Horning
+
+Methode: (griechisch: methodos = Weg, Zugang)
+
+Adding features does not necessarily increase functionality -- it just
+makes the manuals thicker.
+
+Sage es mir, und ich werde es vergessen.
+Zeige es mir, und ich werde es vielleicht behalten.
+Lass es mich tun, und ich werde es können.
+                 -- Konfuzius, 551 - 479 v. Chr.
+
+If you fail to plan, you plan to fail!
+
+Rule of Defactualization:
+        Information deteriorates upward through bureaucracies.
+
