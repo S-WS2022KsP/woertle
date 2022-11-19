@@ -5,12 +5,12 @@ https://sourceforge.net/projects/germandict/"""
 lizenz = \
 "Dieser Quellkode steht unter der GNU GENERAL PUBLIC LICENSE 3 oder neuer"
 skriptName = "holeDatenquelle.py"
-skriptVersion = "1"
-skriptDatum = "2022-10-08"
+skriptVersion = "1.2"
+skriptDatum = "2022-11-19"
 autor = "Lukas Lindner"
 skriptId = \
 f"{skriptName} {skriptVersion}, {skriptDatum}, Copyright (c) {autor}"
-aufrufKurz = f"Aufruf:    {skriptName}"
+aufrufKurz = f"Aufruf:    {skriptName} [Optionen] [Wortlänge] [Einagbedateiname...] [Ausgabedateinamen]"
 copyright = """Dieser Skript ist freie Software, die Sie unter bestimmten
 Bedingungen weitergeben dürfen. Diese stehen im Quellkode.
 Für dieses Python-Skript besteht KEINERLEI GARANTIE, weder für MARKTREIFE 
@@ -30,11 +30,17 @@ Interaktiver Aufruf:   {skriptName}
 Durch den Aufruf des Skripts ohne Parameter wird eine Interaktion durch den
 Benutzer erwartet.
 
-Aufruf mit Übergabe:   {skriptName} 5
+Aufruf mit Übergabe:
+{aufrufKurz}
+Beispiel:              {skriptName} -v 6 eingabe1.txt eingabe2.txt ausgabe.txt
 Durch die Übergabe einer Ganzzahl an das Skript wird die Ausgabe automatisch
 auf Wörter mit der angeben Anzahl an Buchstaben gefiltert.
 
-Es gibt keine Optionen für den Aufruf""" # aufrufLang
+Es gibt folgende Optionen für den Aufruf:
+-h | --help | -?        Hilfe anzeigen
+-v                      Erweiterte Ausgabe
+-d | --debug            Erweiterte Ausgabe zur Fehlersuche
+""" # aufrufLang
 
 def druckeSkriptId():
     print(skriptId)
@@ -44,7 +50,7 @@ def druckeAufrufKurz():
     druckeSkriptId()
     print()
     print(aufrufKurz)
-    return None
+    exit()
 
 def druckeAufrufLang():
     druckeSkriptId()
@@ -52,11 +58,17 @@ def druckeAufrufLang():
     print()
     print(aufrufLang)
     exit()
+    
+def leseParameter():
+    parameter = sys.argv.copy()
+    del parameter[0]
+    for param in parameter:
+        for name in glob.glob(param):
+         
+    return parameter
 ###############################################################################
 
 druckeSkriptId()
-# druckeAufrufKurz()
-# druckeAufrufLang()
 
 import sys
 import os
@@ -65,6 +77,10 @@ import requests
 import pyunpack
 import csv
 import shutil
+
+test = leseParameter()
+print(test)
+exit()
 
 # Prüfen ob die Wortlänge übergeben wurde
 if len(sys.argv) == 2:
@@ -129,7 +145,7 @@ if debug:
     
 datei = open(ausgabeDatei, 'w', encoding = 'utf-8')
 for word in woerter:
-    datei.write(word)
+    datei.write(f"{word}\n")
 datei.close()
 
 print(f"""{zaehler} Wörter mit {wortLaenge} Buchstaben aus dem Wörterbuch 
