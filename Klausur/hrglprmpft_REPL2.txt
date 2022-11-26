@@ -1,0 +1,5 @@
+Aufgabe REPL 2 (3 Punkte)
+
+Hat jede Skriptsprache einen Read-Evaluate-Print-Loop?
+
+Standardantwort: Nein
