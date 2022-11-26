@@ -1,0 +1,11 @@
+
+
+skriptname = "Wortliste"
+Autor = "Veronika"
+Version = "1.0"
+Datum = "26.11.2022"
+
+#open file
+with open('C:\\Users\\Dublin\\Documents\\GitHub\\woertle\\Veronika\\woerter.txt') as datei:
+    print(datei.read())
+
