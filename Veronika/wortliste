@@ -5,7 +5,15 @@ Autor = "Veronika"
 Version = "1.0"
 Datum = "26.11.2022"
 
-#open file
+#open file und Reduzierung der Wörter auf 5-Buchstaben-Wörter
 with open('C:\\Users\\Dublin\\Documents\\GitHub\\woertle\\Veronika\\woerter.txt') as datei:
-    print(datei.read())
+    for wort in datei:
+
+        if len(wort) == 6 :
+            print(wort)
+
+    else:
+        ()
+
+
 
