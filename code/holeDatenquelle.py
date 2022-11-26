@@ -35,12 +35,24 @@ Aufruf mit Übergabe:
 Beispiel:              {skriptName} -v 6 eingabe1.txt eingabe2.txt ausgabe.txt
 Durch die Übergabe einer Ganzzahl an das Skript wird die Ausgabe automatisch
 auf Wörter mit der angeben Anzahl an Buchstaben gefiltert.
+Wird nur ein Dateiname übergeben, wird diese als Eingabedatei behandelt!
 
 Es gibt folgende Optionen für den Aufruf:
 -h | --help | -?        Hilfe anzeigen
 -v                      Erweiterte Ausgabe
 -d | --debug            Erweiterte Ausgabe zur Fehlersuche
 """ # aufrufLang
+
+import sys
+import os
+import glob
+import requests
+import pyunpack
+import csv
+import shutil
+import re
+
+
 
 def druckeSkriptId():
     print(skriptId)
@@ -61,25 +73,44 @@ def druckeAufrufLang():
     
 def leseParameter():
     parameter = sys.argv.copy()
+    dateien = []
+    zahlen = []
     del parameter[0]
     for param in parameter:
-        for name in glob.glob(param):
-         
-    return parameter
+        if re.match(r'\*', param):
+            for datei in glob.glob(param):
+                dateien.append(datei)
+            parameter.remove(param)
+        if re.match(r'\d', param):
+            zahlen.append(param)
+    if len(dateien) >= 2:
+        o["ausgabeDatei"] = dateien.pop()
+        o["eingabeDateien"] = dateien
+    elif len(dateien) == 1:
+        o["eingabeDateien"] = dateien
+    else:
+        o["eingabeDateien"] = False
+    if len(zahlen) > 1:
+        print(f"\nFehler: Es wurden {len(zahlen)} Zahlen übergeben, das Skript \
+erwartet maximal eine Zahl für die Wortlänge\n")
+        druckeAufrufLang()
+    else:
+        o["wortlaenge"] = zahlen[0]
+    return None
 ###############################################################################
 
 druckeSkriptId()
 
-import sys
-import os
-import glob
-import requests
-import pyunpack
-import csv
-import shutil
-
-test = leseParameter()
-print(test)
+skriptPfad = os.path.dirname(__file__)
+o = {
+    "verbose": False,
+    "debug": False,
+    "wortlaenge": False,
+    "eingabeDateien": [],
+    "ausgabeDatei": os.path.join(skriptPfad, "words.txt")
+    }
+leseParameter()
+print(o)
 exit()
 
 # Prüfen ob die Wortlänge übergeben wurde
@@ -101,11 +132,10 @@ woerter = []
 
 # Download  und Import des Wörterbuchs germandict von ourceforge.net
 link = "https://sourceforge.net/projects/germandict/files/latest/download"
-skriptPfad = os.path.dirname(__file__)
 downloadPfad = os.path.join(skriptPfad, "german.7z")
 zielpfadArchiv = os.path.join(skriptPfad, "german-dict")
 woerterbuchPfad = os.path.join(zielpfadArchiv, "german.dic")
-ausgabeDatei = os.path.join(skriptPfad, "words.txt")
+ausgabeDatei = o.get("ausgabeDatei")
 
 istVorhanden = os.path.exists(downloadPfad)
 if not istVorhanden:
