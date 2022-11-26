@@ -1,6 +1,6 @@
 import random
 #import antigravity 
-#pushing packs
+#pushin P
 
 
 skriptname = "Woerter Spiel"
